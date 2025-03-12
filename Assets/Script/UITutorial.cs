@@ -4,12 +4,11 @@ using UnityEngine;
 
 public class UITutorial : MonoBehaviour
 {
-    public GameObject panel1; // Panel pertama
-    public GameObject panel2; // Panel kedua
+    public GameObject panel1; 
+    public GameObject panel2; 
 
     void Start()
     {
-        // Pastikan Panel 1 aktif dan Panel 2 tidak saat awal game
         panel1.SetActive(true);
         panel2.SetActive(false);
     }
@@ -28,6 +27,6 @@ public class UITutorial : MonoBehaviour
 
     public void CloseTutorial()
     {
-        gameObject.SetActive(false); // Menyembunyikan seluruh UI Tutorial
+        gameObject.SetActive(false); 
     }
 }
