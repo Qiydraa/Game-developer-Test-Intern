@@ -30,13 +30,7 @@ C# (MonoBehaviour, Animator, UI System)
 
 # Kontributor
 
-Nama: [TAQIY RIZQI JAGAD SAMUDRA]
-
-Posisi: Game Developer Intern Test
-
-
-
-Nama: [Nama Anda]
+Nama: TAQIY RIZQI JAGAD SAMUDRA
 
 Posisi: Game Developer Intern Test
 
